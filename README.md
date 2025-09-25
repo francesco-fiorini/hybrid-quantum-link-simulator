@@ -29,7 +29,7 @@ It provides both **numerical simulations** and **closed-form analytical predicti
 
 ## Overview
 
-Quantum networks require efficient **photon transmission** over long distances and **transduction** between optical and microwave domains to interface with superconducting qubits.  
+Future Quantum networks will require efficient **photon transmission** over long distances and **transduction** between optical and microwave domains to enable quantum processing operations.  
 
 This simulator models a **hybrid chain** where:
 - An **imperfect source** generates entangled photon-qubit states with a tunable fidelity.
