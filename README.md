@@ -85,8 +85,27 @@ The simulator evaluates the **state fidelity** between the final quantum state a
 
 ### Install via pip
 ```bash
-pip install qutip numpy matplotlib'''
+pip install qutip numpy matplotlib```
 
-
+### Clone the repository:
+```bash
 git clone https://github.com/your-username/quantum-transduction-simulator.git
-cd quantum-transduction-simulator
+cd quantum-transduction-simulator```
+
+### Run the main script to execute the simulations and generate plots:
+```bash
+python simulator.py```
+
+You can modify source fidelity (F/P), channel transmissivity (ηc), transduction efficiency (ηt), and thermal noise (n̄) directly in the script.
+
+---
+
+## Contributing
+Contributions, bug reports, and feature requests are welcome!
+Please reach out at: francesco.fiorini@phd.unipi.it
+
+---
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
