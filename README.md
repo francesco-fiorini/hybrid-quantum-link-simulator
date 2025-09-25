@@ -85,7 +85,7 @@ The simulator evaluates the **state fidelity** between the final quantum state a
 
 ### Install via pip
 ```bash
-pip install qutip numpy matplotlib
+pip install qutip numpy matplotlib'''
 
 
 git clone https://github.com/your-username/quantum-transduction-simulator.git
